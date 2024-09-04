@@ -1,0 +1,17 @@
+Kort beskrivning av funktioner
+
+
+5 olika funktioner
+    1. Invertera alla färger på sidan
+        Jag ville att användaren skulle kunna byta tema på sidan och även byta tillbaka.
+    2. Ändra textstorlek
+        Om användaren har svårt att läsa kan det kanske vara trevligt att kunna öka 
+        textens storlek
+    3. Underlinje text
+        Om användaren vill ha linje under texten
+    4. Byt font
+        Ubuntu eller garamond? Det är frågan
+    5. Ändra font weight
+        För den som vill ha lite fetare stil eller bara testa hur det ser ut.
+
+Jag ville göra en sida där användaren får bestämma själv hur det ska se ut
